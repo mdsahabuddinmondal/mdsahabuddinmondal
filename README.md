@@ -8,7 +8,7 @@ I'm passionate about analyzing data, discovering meaningful insights, and solvin
 - 🌱 Currently learning **Python, Statistics & Advanced SQL**
 - 👯 Open to collaborating on **Beginner-friendly Data Projects**
 - 💬 Ask me about **Excel, SQL & Power BI**
-- 📫 Reach me at **mdsahabuddin07@gmail.com**
+- 📫 Reach me at **mdsahabuddinmondal07@gmail.com**
 
 ---
 
