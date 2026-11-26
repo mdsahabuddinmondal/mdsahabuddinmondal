@@ -1,4 +1,4 @@
-# Hello 👋, I'm Md Sahabuddin Mondal
+# Hello 👋, I'm Sahabuddin
 
 ### Aspiring Data Analyst | Excel | SQL | Power BI
 
